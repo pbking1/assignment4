@@ -16,6 +16,8 @@
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
 		2F18AED119D4677400396E18 /* index2.html in Resources */ = {isa = PBXBuildFile; fileRef = 2F18AECF19D4677400396E18 /* index2.html */; };
 		2F18AED219D4677400396E18 /* TemplateIcon2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F18AED019D4677400396E18 /* TemplateIcon2x.png */; };
+		2F3E897E19E612D80085342A /* three1.html in Resources */ = {isa = PBXBuildFile; fileRef = 2F3E897D19E612D80085342A /* three1.html */; };
+		2F3E898019E61DCA0085342A /* chart1.html in Resources */ = {isa = PBXBuildFile; fileRef = 2F3E897F19E61DCA0085342A /* chart1.html */; };
 		2FF68EA219C7D87C00188684 /* f1.html in Resources */ = {isa = PBXBuildFile; fileRef = 2FF68EA119C7D87C00188684 /* f1.html */; };
 		2FF68EA419C7DCBE00188684 /* f2.html in Resources */ = {isa = PBXBuildFile; fileRef = 2FF68EA319C7DCBE00188684 /* f2.html */; };
 		2FF68EA719C7E54800188684 /* f3.html in Resources */ = {isa = PBXBuildFile; fileRef = 2FF68EA619C7E54800188684 /* f3.html */; };
@@ -85,6 +87,8 @@
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		2F18AECF19D4677400396E18 /* index2.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = index2.html; path = www/index2.html; sourceTree = "<group>"; };
 		2F18AED019D4677400396E18 /* TemplateIcon2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = TemplateIcon2x.png; path = www/TemplateIcon2x.png; sourceTree = "<group>"; };
+		2F3E897D19E612D80085342A /* three1.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = three1.html; path = www/three1.html; sourceTree = "<group>"; };
+		2F3E897F19E61DCA0085342A /* chart1.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = chart1.html; path = www/chart1.html; sourceTree = "<group>"; };
 		2FF68EA119C7D87C00188684 /* f1.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = f1.html; path = www/f1.html; sourceTree = "<group>"; };
 		2FF68EA319C7DCBE00188684 /* f2.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = f2.html; path = www/f2.html; sourceTree = "<group>"; };
 		2FF68EA619C7E54800188684 /* f3.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = f3.html; path = www/f3.html; sourceTree = "<group>"; };
@@ -200,6 +204,8 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				2F3E897F19E61DCA0085342A /* chart1.html */,
+				2F3E897D19E612D80085342A /* three1.html */,
 				2F18AECF19D4677400396E18 /* index2.html */,
 				2F18AED019D4677400396E18 /* TemplateIcon2x.png */,
 				2FF68EA819C7E67C00188684 /* f4.html */,
@@ -403,6 +409,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F840E1F1165FE0F500CFE078 /* config.xml in Resources */,
+				2F3E897E19E612D80085342A /* three1.html in Resources */,
 				308D05371370CCF300D202BF /* icon-72.png in Resources */,
 				308D05381370CCF300D202BF /* icon.png in Resources */,
 				308D05391370CCF300D202BF /* icon@2x.png in Resources */,
@@ -410,6 +417,7 @@
 				1F766FE113BBADB100FB74C0 /* Localizable.strings in Resources */,
 				2FF68EA719C7E54800188684 /* f3.html in Resources */,
 				1F766FE213BBADB100FB74C0 /* Localizable.strings in Resources */,
+				2F3E898019E61DCA0085342A /* chart1.html in Resources */,
 				2F18AED119D4677400396E18 /* index2.html in Resources */,
 				302D95F214D2391D003F00A1 /* MainViewController.xib in Resources */,
 				30A0434814DC770100060A13 /* Localizable.strings in Resources */,
